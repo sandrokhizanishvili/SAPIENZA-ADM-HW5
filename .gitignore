@@ -1,4 +1,10 @@
+# The Dataset
 Airports2.csv
+
+# Other CSVs
+*.csv
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
