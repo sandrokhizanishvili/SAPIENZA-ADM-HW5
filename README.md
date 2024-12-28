@@ -12,6 +12,7 @@ Fifth homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data 
 
 
 ## **Repository Structure (TO-DO)**
+- **`functions`**: Folder that contains python functions used to solve the problems
 - **`functions/airline_partitioning.py`**: Python file containing function that implement the solution of graph disconnection problem
 - **`functions/single_source_shortest_path.py`**: Python file containing function that implement the solution of finding the best routes
 - **`main.ipynb`**: Main notebook with implementations for all the points
