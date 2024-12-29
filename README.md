@@ -3,12 +3,19 @@ Fifth homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data 
 
 ---
 
-
 ## Group #18 Team Members
 * Sandro Khizanishvili, 2175979, khizanishvilisandro@gmail.com
 * Nihal Yaman Yilmaz, 2188731, nihalyaman20@gmail.com
 * Augusto de Luzenberger Milnernsheim, 1601657, deluzenbergeraugusto@gmail.com
 * Federico Lattanzio, 1886519, federicolattanzio31@gmail.com 
+
+### **Interactive Map Visualization**
+
+Due to GitHub's rendering limitations, interactive maps created using libraries like `Plotly` or `Folium` cannot be displayed directly in this repository. To overcome this, we have provided an **nbviewer** link where you can view our interactive maps and visualizations.
+
+You can view the interactive maps and visualizations by clicking the link below:
+
+👉 **[View Interactive Maps on nbviewer](https://nbviewer.org/github/sandrokhizanishvili/SAPIENZA-ADM-HW5/blob/main/main.ipynb)**
 
 
 ## **Repository Structure**
