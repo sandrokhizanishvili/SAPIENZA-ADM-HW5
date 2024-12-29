@@ -16,9 +16,11 @@ Fifth homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data 
 - **`functions/airline_partitioning.py`**: Python file containing function that implement the solution of graph disconnection problem
 - **`functions/single_source_shortest_path.py`**: Python file containing function that implement the solution of finding the best routes
 - **`functions/functions_Q2.py`**: Python file containing function essential for question 2
+- **`functions/q5_1.py`**: Python file containing function essential for question 5.1
+- **`functions/q5_2.py`**: Python file containing function essential for question 5.2
 - **`main.ipynb`**: Main notebook with implementations for all the points
 - **`LICENSE`**: Project license.
-- **`README.md`**: Documentation for the project.
+- **`README.md`**: Documentation for the project
 
 
 ---
