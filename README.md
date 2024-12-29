@@ -11,12 +11,12 @@ Fifth homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data 
 * Federico Lattanzio, 1886519, federicolattanzio31@gmail.com 
 
 
-## **Repository Structure (TO-DO)**
+## **Repository Structure**
 - **`functions`**: Folder that contains python functions used to solve the problems
 - **`functions/airline_partitioning.py`**: Python file containing function that implement the solution of graph disconnection problem
 - **`functions/single_source_shortest_path.py`**: Python file containing function that implement the solution of finding the best routes
+- **`functions/functions_Q2.py`**: Python file containing function essential for question 2
 - **`main.ipynb`**: Main notebook with implementations for all the points
-- **`otherfile.ipynb`**: file description
 - **`LICENSE`**: Project license.
 - **`README.md`**: Documentation for the project.
 
